@@ -1,0 +1,30 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "73869514",
+      "name": "影院",
+      "font_class": "yingyuan",
+      "unicode": "e67f",
+      "unicode_decimal": 59007
+    },
+    {
+      "icon_id": "73869516",
+      "name": "电影",
+      "font_class": "dianying",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "73869527",
+      "name": "我的",
+      "font_class": "profile",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    }
+  ]
+}
